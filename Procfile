@@ -1,1 +1,1 @@
-web: ng serve --port $PORT -- --disable-host-check
+web: npm serve --port $PORT -- --disable-host-check
